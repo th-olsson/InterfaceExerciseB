@@ -16,10 +16,10 @@ Implementera (använd) interfacet på båda klasserna.
 till valfri metod och se till att alla kontrakt uppfylls.
 
 ## B)
-- [ ] Gör två interface med samma metod run(). Den ena metoden ska ha
+- [x] Gör två interface med samma metod run(). Den ena metoden ska ha
 returtyp void och den andra int.
-- [ ] Gör en klass som uppfyller båda kontrakten med två metoder med samma
+- [x] Gör en klass som uppfyller båda kontrakten med två metoder med samma
 namn.
-- [ ] Den ena ska ha returtyp void och den andra int. Den som har int ska
+- [x] Den ena ska ha returtyp void och den andra int. Den som har int ska
 returnera en sjua. I varje metod skriver du ut vilken metod som körs.
-- [ ] Skapa en instans (objekt) av klassen och anropa båda metoderna. 
+- [x] Skapa en instans (objekt) av klassen och anropa båda metoderna. 
